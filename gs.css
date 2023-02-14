@@ -1,0 +1,25 @@
+.speech {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: black;
+}
+
+.direction {
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    color: black;
+}
+
+.direction:hover {
+    background-color: aqua;
+    color: blue
+}
+
+.FRAULINDEMANN {
+    color: aquamarine;
+}
+
+.ROSA {
+    color: rgb(85, 83, 213);
+}
