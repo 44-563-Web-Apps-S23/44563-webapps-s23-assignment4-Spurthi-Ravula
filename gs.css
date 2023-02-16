@@ -17,7 +17,7 @@
 }
 
 .FRAULINDEMANN {
-    color: aquamarine;
+    color: rgb(221, 7, 203);
 }
 
 .ROSA {
@@ -52,4 +52,25 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
     background-color: rgb(134, 195, 103);
+}
+
+.FRAULINDEMANN:hover {
+    color: rgb(52, 9, 191);
+    filter: blur(1px);
+    box-shadow: 2px 5px 6px 7px red;
+    border: 8px solid rgb(100, 160, 108);
+}
+
+.ROSA:hover {
+    color: rgb(209, 10, 10);
+    filter: blur(1px);
+    box-shadow: 2px 5px 6px 7px red;
+    border: 8px solid rgb(129, 97, 97);
+}
+
+.STRUBEL:hover {
+    color: rgb(201, 12, 141);
+    filter: blur(1px);
+    box-shadow: 2px 5px 6px 7px red;
+    border: 8px solid rgb(178, 165, 102);
 }
